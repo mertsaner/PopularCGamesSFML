@@ -1,2 +1,2 @@
 # PopularCGamesSFML
-Codes of the popular games found in Internet
+C++ codes of the popular games
